@@ -1,3 +1,11 @@
+Jérôme JORON
+Valentin MAGOT
+Nicolas MALFAIT
+Alexandre LOUTTE
+
+Je suis étudiant en 5e année à l'école Polytech'Annecy en France. J'étudie principalement l'instrumentation, l'informatique et l'automatisation. Je souhaiterais travailler dans le domaine des automatismes industriels dans un 1 an quand je serai diplômé.
+
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
