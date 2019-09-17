@@ -1,7 +1,10 @@
-Jérôme JORON
-Valentin MAGOT
-Nicolas MALFAIT
-Alexandre LOUTTE
+Jérôme JORON.
+
+Valentin MAGOT.
+
+Nicolas MALFAIT.
+
+Alexandre LOUTTE.
 
 Je suis étudiant en 5e année à l'école Polytech'Annecy en France. J'étudie principalement l'instrumentation, l'informatique et l'automatisation. Je souhaiterais travailler dans le domaine des automatismes industriels dans un 1 an quand je serai diplômé.
 
